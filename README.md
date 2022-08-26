@@ -12,11 +12,11 @@
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
 
 ### 분야 :
-- [앱 개발 (Java,Kotlin)]()
-- [웹 개발 (Html,Css,Js,PHP)]()
-- [게임 개발 (C#,Unity)]()
-- [보안 (C,Python,Network)]()
-- [알고리즘 (Python,Java)]()
+- [앱 개발 (Java,Kotlin)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/App_Readme)
+- [웹 개발 (Html,Css,Js,PHP)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Web_Readme)
+- [게임 개발 (C#,Unity)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Game_Readme)
+- [보안 (C,Python,Network)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Security_Readme)
+- [알고리즘 (Python,Java)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Algorithm_Readme)
 
 ## 앱 개발
 ### 단장 : [Seongjin01](https://github.com/Seongjin01) , [rkdwngns](https://github.com/rkdwngns) , [siyoung05](https://github.com/siyoung05)
