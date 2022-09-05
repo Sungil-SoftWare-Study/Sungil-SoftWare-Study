@@ -32,6 +32,7 @@
 
 ## 게임 개발
 ### 단장 : [alfredsty](https://github.com/alfredsty) , [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
+#### 기능대회 준비 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
 ### 멤버 :
 -
 -
