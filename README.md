@@ -45,7 +45,6 @@
 - [wngh1212](https://github.com/wngh1212)
 - [2005Payne](https://github.com/2005Payne)
 - [dydals583](https://github.com/dydals583)
-- [dlclfh0404](https://github.com/dlclfh0404)
 
 ## 알고리즘
 ### 단장 : [Yu-Kit42](https://github.com/Yu-Kit42) , [2005Payne](https://github.com/2005Payne)
