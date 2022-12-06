@@ -8,7 +8,8 @@
 </div>
 
 ## 역대 멤버
-### 1기 : 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : 비젠트로(주)
+### 1기 
+- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : 비젠트로
 - [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM) : 고등학생
 - [Seongjin01](https://github.com/Seongjin01) : 고등학생
 - [rkdwngns](https://github.com/rkdwngns) : 윈즈시스템
@@ -22,7 +23,9 @@
 - [sjoonn](https://github.com/sjoonn) : 비젠트로
 - [alfredsty](https://github.com/alfredsty) : 비젠트로
 ### 2기 : [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
-- 
+- [대충2학년](https://gitub.com/깃허브아이디)
+- [대충2학년](https://gitub.com/깃허브아이디)
+- [대충2학년](https://gitub.com/깃허브아이디)
 ---
 
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
