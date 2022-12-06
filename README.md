@@ -7,6 +7,10 @@
   <h3> 실력과 경험을 늘리고 있습니다.</h3>
 </div>
 
+## 역대 총단장
+- 1기(개설) : [Gaeduck-0908](https://github.com/Gaeduck-0908)
+- 2기 : [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
+
 ---
 
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
