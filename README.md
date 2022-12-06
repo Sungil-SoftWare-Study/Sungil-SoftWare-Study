@@ -8,18 +8,19 @@
 </div>
 
 ## 역대 멤버
-### 1기 : 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
-- [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
-- [Seongjin01](https://github.com/Seongjin01)
-- [rkdwngns](https://github.com/rkdwngns)
-- [siyoung05](https://github.com/siyoung05)
-- [wngh1212](https://github.com/wngh1212)
-- [Yu-Kit42](https://github.com/Yu-Kit42)
-- [2005Payne](https://github.com/2005Payne)
-- [Daeyeong0](https://github.com/Daeyeong0)
-- [dokang0144](https://github.com/dokang0144)
-- [haneol22](https://github.com/haneol22)
-- [sjoonn](https://github.com/sjoonn)
+### 1기 : 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : 비젠트로(주)
+- [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM) : 고등학생
+- [Seongjin01](https://github.com/Seongjin01) : 고등학생
+- [rkdwngns](https://github.com/rkdwngns) : 윈즈시스템
+- [siyoung05](https://github.com/siyoung05) : 시큐레이어
+- [wngh1212](https://github.com/wngh1212) : 소프트보울
+- [Yu-Kit42](https://github.com/Yu-Kit42) : 소프트캠프
+- [2005Payne](https://github.com/2005Payne) : 시큐레이어
+- [Daeyeong0](https://github.com/Daeyeong0) : 소프트캠프
+- [dokang0144](https://github.com/dokang0144) : 시큐레이어
+- [haneol22](https://github.com/haneol22) : 투비스마트
+- [sjoonn](https://github.com/sjoonn) : 비젠트로
+- [alfredsty](https://github.com/alfredsty) : 비젠트로
 ### 2기 : [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
 - 
 ---
