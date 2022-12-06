@@ -7,10 +7,21 @@
   <h3> 실력과 경험을 늘리고 있습니다.</h3>
 </div>
 
-## 역대 총단장
-- 1기(개설) : [Gaeduck-0908](https://github.com/Gaeduck-0908)
-- 2기 : [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
-
+## 역대 멤버
+### 1기 : 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
+- [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
+- [Seongjin01](https://github.com/Seongjin01)
+- [rkdwngns](https://github.com/rkdwngns)
+- [siyoung05](https://github.com/siyoung05)
+- [wngh1212](https://github.com/wngh1212)
+- [Yu-Kit42](https://github.com/Yu-Kit42)
+- [2005Payne](https://github.com/2005Payne)
+- [Daeyeong0](https://github.com/Daeyeong0)
+- [dokang0144](https://github.com/dokang0144)
+- [haneol22](https://github.com/haneol22)
+- [sjoonn](https://github.com/sjoonn)
+### 2기 : [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM)
+- 
 ---
 
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
