@@ -10,7 +10,6 @@
 ## 역대 멤버
 ### 1기 
 - 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)비젠트로
-- [MIN-SEOP-KIM](https://github.com/MIN-SEOP-KIM) : 고등학생
 - [Seongjin01](https://github.com/Seongjin01) : (주)에프아이솔루션
 - [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템
 - [siyoung05](https://github.com/siyoung05) : (주)시큐레이어
