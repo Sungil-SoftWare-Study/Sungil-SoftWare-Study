@@ -21,12 +21,24 @@
 - [haneol22](https://github.com/haneol22) : (주)투비스마트
 - [sjoonn](https://github.com/sjoonn) : (주)비젠트로
 - [alfredsty](https://github.com/alfredsty) : (주)비젠트로
+- [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술
+
+### 수상기록
+- 2022 지방기능경기대회[게임개발] 은상 : 김태한
+- 2022 전국기능경기대회[게임개발] 장려상 : 김태한
+- 2022 사이버가디언즈 CTF 본선 진출 : 김태한,강주훈,강주호,박재우
+- 2022 KAIT SFPC 경북 오픈런상 : 김태한,박재우,송주환,고준성
+- 2022 마이크로비트 글로벌 챌린지 4등 : 손태영
+- 2022 교내 프로그래밍 경진대회 금상 : 송주환
+- 2022 교내 프로그래밍 경진대회 장려상 : 김태한, 고준성
+
+---
+
 ### 2기 : 
 - 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)비젠트로
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
----
 
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
 
@@ -34,7 +46,7 @@
 - [앱 개발 (Java,Kotlin)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/App_Readme)
 - [웹 개발 (Html,Css,Js,PHP)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Web_Readme)
 - [게임 개발 (C#,Unity)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Game_Readme)
-- [AI](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/AI_Readme)
+- [AI (Python,머신러닝,딥러닝)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/AI_Readme)
 - [알고리즘 (Python,Java)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Algorithm_Readme)
 
 ## 앱 개발
