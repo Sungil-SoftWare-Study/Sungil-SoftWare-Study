@@ -23,7 +23,7 @@
 - [alfredsty](https://github.com/alfredsty) : (주)비젠트로
 - [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술
 
-### 수상기록
+### 활동기록
 - 2022 지방기능경기대회[게임개발] 은상 : 김태한
 - 2022 전국기능경기대회[게임개발] 장려상 : 김태한
 - 2022 사이버가디언즈 CTF 본선 진출 : 김태한,강주훈,강주호,박재우
@@ -31,6 +31,7 @@
 - 2022 마이크로비트 글로벌 챌린지 4등 : 손태영
 - 2022 교내 프로그래밍 경진대회 금상 : 송주환
 - 2022 교내 프로그래밍 경진대회 장려상 : 김태한, 고준성
+- Sungil GDG 게임 배포 [Luscious Pinball](https://sungili-gdg.co.kr/games) : 김태한
 
 ---
 
@@ -39,6 +40,9 @@
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
+
+### 활동기록
+- Sungil GDG 게임 배포 [FlightShooting Game](https://sungili-gdg.co.kr/games) : 손은규
 
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
 
