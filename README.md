@@ -44,6 +44,17 @@
 ### 활동기록
 - Sungil GDG 게임 배포 [FlightShooting Game](https://sungili-gdg.co.kr/games) : 손은규
 
+---
+
+### 3기 : 
+- 단장 : 
+- [대충1학년](https://gitub.com/깃허브아이디)
+- [대충1학년](https://gitub.com/깃허브아이디)
+- [대충1학년](https://gitub.com/깃허브아이디)
+
+### 활동기록
+- 
+
 ## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
 
 ### 분야 :
