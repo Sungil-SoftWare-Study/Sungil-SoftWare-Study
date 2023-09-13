@@ -16,7 +16,6 @@
 - [wngh1212](https://github.com/wngh1212) : (주)소프트보울
 - [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프
 - [2005Payne](https://github.com/2005Payne) : (주)시큐레이어
-- [Daeyeong0](https://github.com/Daeyeong0) : (주)소프트캠프
 - [dokang0144](https://github.com/dokang0144) : (주)시큐레이어
 - [haneol22](https://github.com/haneol22) : (주)투비스마트
 - [sjoonn](https://github.com/sjoonn) : (주)비젠트로
