@@ -19,7 +19,7 @@
 - [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
 - [dokang0144](https://github.com/dokang0144) : (주)시큐레이어 : 김유강
 - [haneol22](https://github.com/haneol22) : (주)투비스마트 : 정한얼
-- [sjoonn](https://github.com/sjoonn) : (주)비젠트로 : 이상준
+- [sjoonn](https://github.com/sjoonn) : (주)지누스 : 이상준
 - [alfredsty](https://github.com/alfredsty) : (주)비젠트로 : 손태영
 - [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
 
