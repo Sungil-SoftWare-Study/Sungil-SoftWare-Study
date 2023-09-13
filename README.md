@@ -9,18 +9,18 @@
 
 ## 역대 멤버
 ### 1기 
-- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)비젠트로
-- [Seongjin01](https://github.com/Seongjin01) : (주)에프아이솔루션
-- [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템
-- [siyoung05](https://github.com/siyoung05) : (주)시큐레이어
-- [wngh1212](https://github.com/wngh1212) : (주)소프트보울
-- [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프
-- [2005Payne](https://github.com/2005Payne) : (주)시큐레이어
-- [dokang0144](https://github.com/dokang0144) : (주)시큐레이어
-- [haneol22](https://github.com/haneol22) : (주)투비스마트
-- [sjoonn](https://github.com/sjoonn) : (주)비젠트로
-- [alfredsty](https://github.com/alfredsty) : (주)비젠트로
-- [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술
+- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)비젠트로 : 김태한
+- [Seongjin01](https://github.com/Seongjin01) : (주)에프아이솔루션 : 배성진
+- [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템 : 강주훈
+- [siyoung05](https://github.com/siyoung05) : (주)시큐레이어 : 문시영
+- [wngh1212](https://github.com/wngh1212) : (주)소프트보울 : 강주호
+- [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프 : 송주환
+- [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
+- [dokang0144](https://github.com/dokang0144) : (주)시큐레이어 : 김유강
+- [haneol22](https://github.com/haneol22) : (주)투비스마트 : 정한얼
+- [sjoonn](https://github.com/sjoonn) : (주)비젠트로 : 이상준
+- [alfredsty](https://github.com/alfredsty) : (주)비젠트로 : 손태영
+- [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
 
 ### 활동기록
 - 2022 지방기능경기대회[게임개발] 은상 : 김태한
@@ -31,11 +31,14 @@
 - 2022 교내 프로그래밍 경진대회 금상 : 송주환
 - 2022 교내 프로그래밍 경진대회 장려상 : 김태한, 고준성
 - Sungil GDG 게임 배포 [Luscious Pinball](https://sungili-gdg.co.kr/games) : 김태한
-
+- 2023 해킹캠프 CTF 3위 : 강주호, 김태한
+- 2023 상업경진대회 장려상 : 송주환
+- 2023 지방기능경기대회[게임개발] 은상 : 김태한
+- 2023 YISF 본선 진출 : 김태한
 ---
 
 ### 2기 : 
-- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)비젠트로
+- 단장 : [github 닉네임](https://github.com/) : 회사,대학 : 이름
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
@@ -54,35 +57,3 @@
 ### 활동기록
 - 
 
-## 총괄 : [Gaeduck-0908](https://github.com/Gaeduck-0908)
-
-### 분야 :
-- [앱 개발 (Java,Kotlin)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/App_Readme)
-- [웹 개발 (Html,Css,Js,PHP)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Web_Readme)
-- [게임 개발 (C#,Unity)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Game_Readme)
-- [AI (Python,머신러닝,딥러닝)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/AI_Readme)
-- [알고리즘 (Python,Java)](https://github.com/Sungil-SoftWare-Study/Sungil-SoftWare-Study/blob/main/Read/Algorithm_Readme)
-
-## 앱 개발
-### 단장 : 
-### 멤버 :
-- 
-- 
-
-## 웹 개발
-### 단장 : 
-### 멤버 :
--
--
-
-## 게임 개발
-### 단장 : 
-### 멤버 :
--
--
-
-## 알고리즘
-### 단장 : 
-### 멤버 :
--
--
