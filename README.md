@@ -22,6 +22,7 @@
 - [sjoonn](https://github.com/sjoonn) : (주)지누스 : 이상준
 - [alfredsty](https://github.com/alfredsty) : (주)비젠트로 : 손태영
 - [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
+- [woojin0jang](https://github.com/woojin0jang) :(주)가비아CNS : 장우진
 
 ### 활동기록
 - 2022 지방기능경기대회[게임개발] 은상 : 김태한
