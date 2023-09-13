@@ -38,7 +38,7 @@
 ---
 
 ### 2기 : 
-- 단장 : [github 닉네임](https://github.com/) : 회사,대학 : 이름
+- 단장 : [Suk0803](https://github.com/Suk0803) : 성일정보고등학교 재학 : 이제석
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
 - [대충2학년](https://gitub.com/깃허브아이디)
