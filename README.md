@@ -48,10 +48,15 @@
 ---
 
 ### 2기 : 
-- 단장 : [Suk0803](https://github.com/Suk0803) : 성일정보고등학교 재학 : 이제석
-- [대충2학년](https://gitub.com/깃허브아이디)
-- [대충2학년](https://gitub.com/깃허브아이디)
-- [대충2학년](https://gitub.com/깃허브아이디)
+- 단장 : [Suk0803](httaps://github.com/Suk0803) : 성일정보고등학교 재학 : 이제석
+- [김지호](https://github.com/lelo52)
+- [손은규](https://github.com/kkwabaegi)
+- [박준호](https://github.com/JJUN1204)
+- [정은교](https://github.com/eunkyo3)
+- [강정묵](https://github.com/kangjungmook)
+- [이화준](https://github.com/dlclfh0404)
+- [양민석](https://github.com/minseok06)
+- [김민준](https://github.com/Qnd1101)
 
 ### 활동기록
 - Sungil GDG 게임 배포 [FlightShooting Game](https://sungili-gdg.co.kr/games) : 손은규
