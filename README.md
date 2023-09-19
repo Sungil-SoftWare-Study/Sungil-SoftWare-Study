@@ -47,7 +47,7 @@
 - 2023 CodeGate 컨퍼런스 참석 : 김태한, 강주호, 강주훈
 ---
 
-### 2기 : 
+### 2기
 - 단장 : [Suk0803](httaps://github.com/Suk0803) : 성일정보고등학교 재학 : 이제석
 - [김지호](https://github.com/lelo52)
 - [손은규](https://github.com/kkwabaegi)
