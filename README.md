@@ -57,6 +57,7 @@
 - [dlclfh0404](https://github.com/dlclfh0404) : 이화준
 - [minseok06](https://github.com/minseok06) : 양민석
 - [Qnd1101](https://github.com/Qnd1101) : 김민준
+- [hwan06](https://github.com/hwan06) : 최환
 
 ### 활동기록
 - Sungil GDG 게임 배포 [FlightShooting Game](https://sungili-gdg.co.kr/games) : 손은규
