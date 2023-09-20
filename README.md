@@ -58,6 +58,7 @@
 - [minseok06](https://github.com/minseok06) : 양민석
 - [Qnd1101](https://github.com/Qnd1101) : 김민준
 - [hwan06](https://github.com/hwan06) : 최환
+- [seokhyun06](https://github.com/seokhyun06) : 김석현
 
 ### 활동기록
 - Sungil GDG 게임 배포 [FlightShooting Game](https://sungili-gdg.co.kr/games) : 손은규
