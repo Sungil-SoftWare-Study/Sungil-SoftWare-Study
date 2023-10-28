@@ -13,7 +13,6 @@
 - 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)싸이버원 : 김태한
 - [Seongjin01](https://github.com/Seongjin01) : (주)에프아이솔루션 : 배성진
 - [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템 : 강주훈
-- [siyoung05](https://github.com/siyoung05) : (주)시큐레이어 : 문시영
 - [wngh1212](https://github.com/wngh1212) : (주)소프트보울 : 강주호
 - [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프 : 송주환
 - [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
