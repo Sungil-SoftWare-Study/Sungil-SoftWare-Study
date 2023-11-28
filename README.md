@@ -58,19 +58,21 @@
 
 ### 2기
 - 단장 : [Suk0803](https://github.com/suk0803) : 성일정보고등학교 재학 : 이제석
-- [lelo52](https://github.com/lelo52) : 김지호
-- [kkwabaegi](https://github.com/kkwabaegi) : 손은규
-- [JJUN1204](https://github.com/JJUN1204) : 박준호
-- [eunkyo3](https://github.com/eunkyo3) : 정은교
-- [kangjungmook](https://github.com/kangjungmook) : 강정묵
-- [dlclfh0404](https://github.com/dlclfh0404) : 이화준
-- [minseok06](https://github.com/minseok06) : 양민석
-- [Qnd1101](https://github.com/Qnd1101) : 김민준
-- [hwan06](https://github.com/hwan06) : 최환
-- [seokhyun06](https://github.com/seokhyun06) : 김석현
+- [lelo52](https://github.com/lelo52) : (주)유플러스시스템 :김지호
+- [kkwabaegi](https://github.com/kkwabaegi) : 성일정보고등학교 재학 : 손은규
+- [JJUN1204](https://github.com/JJUN1204) : (주)에스티엔인포텍 : 박준호
+- [eunkyo3](https://github.com/eunkyo3) : (주)에니셀 : 정은교
+- [dlclfh0404](https://github.com/dlclfh0404) : (주)에니셀 :이화준
+- [minseok06](https://github.com/minseok06) : 성일정보고등학교 재학 : 양민석
+- [Qnd1101](https://github.com/Qnd1101) : (주)에니셀 : 김민준
+- [hwan06](https://github.com/hwan06) : (주)에니셀 : 최환
+- [seokhyun06](https://github.com/seokhyun06) : 성일정보고등학교 재학 : 김석현
 
 ### 활동기록
-
+- 2022 Intel A.I for Youth Program 참여 : 이제석, 박준호
+- 2022 삼성 주니어 SW 아카데미 참여 : 이제석, 박준호, 손은규
+- 2022 
+- 
 ---
 
 ### 3기 : 
