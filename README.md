@@ -11,16 +11,14 @@
 ## 역대 멤버
 ### 1기 
 - 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)싸이버원 : 김태한
-- [Seongjin01](https://github.com/Seongjin01) : (주)에프아이솔루션 : 배성진
+- [Seongjin01](https://github.com/Seongjin01) : 퇴사 : 배성진
 - [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템 : 강주훈
-- [wngh1212](https://github.com/wngh1212) : (주)소프트보울 : 강주호
+- [wngh1212](https://github.com/wngh1212) : 퇴사 : 강주호
 - [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프 : 송주환
 - [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
-- [dokang0144](https://github.com/dokang0144) : (주)시큐레이어 : 김유강
 - [haneol22](https://github.com/haneol22) : (주)투비스마트 : 정한얼
 - [alfredsty](https://github.com/alfredsty) : 퇴사 : 손태영
 - [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
-- [woojin0jang](https://github.com/woojin0jang) : (주)가비아CNS : 장우진
 
 ### 활동기록
 - 2021 제 2회 해킹하는 부엉이들 웹 세미나 참석 : 김태한
