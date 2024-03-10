@@ -6,18 +6,19 @@
   <h3> 서로 자유롭게 의견을 나누고 대회 준비, 프로젝트 개발 등 활동을 진행하며</h3>
   <h3> 실력과 경험을 늘리고 있습니다.</h3>
   <h3> 아래 역대 멤버란은 졸업당시 대학, 회사를 기준으로 기재합니다. </h3>
+  <h3> 활동 이력은 재학 당시 활동만 기재합니다. </h3>
 </div>
 
 ## 역대 멤버
 ### 1기 
 - 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)싸이버원 : 김태한
-- [Seongjin01](https://github.com/Seongjin01) : 퇴사 : 배성진
+- [Seongjin01](https://github.com/Seongjin01) : (주)넷매니아 : 배성진
 - [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템 : 강주훈
-- [wngh1212](https://github.com/wngh1212) : 퇴사 : 강주호
+- [wngh1212](https://github.com/wngh1212) : (주)쿼드마이너 : 강주호
 - [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프 : 송주환
 - [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
 - [haneol22](https://github.com/haneol22) : (주)투비스마트 : 정한얼
-- [alfredsty](https://github.com/alfredsty) : 퇴사 : 손태영
+- [alfredsty](https://github.com/alfredsty) : (주)에스비아이앤씨 : 손태영
 - [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
 
 ### 활동기록
