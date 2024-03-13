@@ -50,7 +50,7 @@
 ---
 
 ### 2기
-- 단장 : [Suk0803](https://github.com/suk0803) : 성일정보고등학교 재학 : 이제석
+- 단장 : [itsjay83](https://github.com/itsjay83) : 성일정보고등학교 재학 : 이제석
 - [lelo52](https://github.com/lelo52) : (주)유플러스시스템 :김지호
 - [kkwabaegi](https://github.com/kkwabaegi) : 성일정보고등학교 재학 : 손은규
 - [JJUN1204](https://github.com/JJUN1204) : (주)에스티엔인포텍 : 박준호
