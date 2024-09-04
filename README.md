@@ -11,15 +11,13 @@
 
 ## 역대 멤버
 ### 1기 
-- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : (주)싸이버원 : 김태한
-- [Seongjin01](https://github.com/Seongjin01) : (주)넷매니아 : 배성진
-- [rkdwngns](https://github.com/rkdwngns) : (주)윈즈시스템 : 강주훈
-- [wngh1212](https://github.com/wngh1212) : (주)쿼드마이너 : 강주호
-- [Yu-Kit42](https://github.com/Yu-Kit42) : (주)소프트캠프 : 송주환
-- [2005Payne](https://github.com/2005Payne) : (주)시큐레이어 : 박재우
-- [haneol22](https://github.com/haneol22) : (주)투비스마트 : 정한얼
-- [alfredsty](https://github.com/alfredsty) : (주)에스비아이앤씨 : 손태영
-- [MiLu-](https://github.com/kojoonseong) : (주)지우정보기술 : 고준성
+- 단장 : [Gaeduck-0908](https://github.com/Gaeduck-0908) : 김태한
+- [Seongjin01](https://github.com/Seongjin01) : 배성진
+- [rkdwngns](https://github.com/rkdwngns) : 강주훈
+- [wngh1212](https://github.com/wngh1212) : 강주호
+- [Yu-Kit42](https://github.com/Yu-Kit42) : 송주환
+- [2005Payne](https://github.com/2005Payne) : 박재우
+- [alfredsty](https://github.com/alfredsty) : 손태영
 
 ### 활동기록
 - 2022 지방기능경기대회[게임개발] 은상 : 김태한
